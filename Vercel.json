@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "routes": [
-    { "src": "/", "dest": "Promisesproject.html" }
+  "rewrites": [
+    { "source": "/", "destination": "/PromisesProject.html" }
   ]
 }
