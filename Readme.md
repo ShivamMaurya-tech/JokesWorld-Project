@@ -1,1 +1,1 @@
-# This is My Jokes Project You can get more jokes dynamically.
+# This is My Jokes Project You can get more jokes dynamically using promises.
